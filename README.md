@@ -25,6 +25,9 @@ Adventure Works Insights is more than just a dashboard—it's a strategic tool d
 🛠️ Tools & Technologies
 
 Power BI: The primary tool used for data visualization and dashboard creation.
+
 DAX (Data Analysis Expressions): Utilized for creating custom measures and calculations.
+
 Power Query: Used for data transformation and cleanup.
+
 SQL: Employed for data extraction and preparation.
