@@ -4,6 +4,7 @@ Adventure Works Insights is a dynamic and interactive Power BI dashboard designe
 
 🔑 Key Features
 📊 KPIs: Monitor essential business metrics, including revenue, total sales, customer count, and profit margins, providing a comprehensive snapshot of performance.
+
 🔗 Custom Buttons & Page Navigation: Implemented interactive buttons for seamless transitions between different dashboard sections, ensuring an intuitive user experience.
 📈 Graphs: Utilized various visualizations such as line graphs, bar charts, and pie charts to communicate data trends, distributions, and comparisons effectively.
 🔮 Forecasting & Trends: Integrated forecasting models and trend analysis, including linear trends and moving averages, to predict future sales and uncover seasonal patterns.
